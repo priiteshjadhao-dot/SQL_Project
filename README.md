@@ -1,9 +1,19 @@
-# SQL_Projects
+## SQL Analytical Techniques Used
+
+This project demonstrates SQL techniques used for real-world data analysis on two datasets:
+1. Pizza Sales Data
+2. Hospital Patient Data
+
+Techniques Included:
+• JOINs — to combine tables and get relational insights
+• GROUP BY — to aggregate metrics such as revenue and patient count
+• Aggregations — SUM, COUNT, AVG for KPI calculations
+• Window Functions — RANK, ROW_NUMBER, SUM OVER for comparative and time-based insights
+• Filtering & Conditions — WHERE, HAVING for slicing data
+• Ordering — ORDER BY to sort results
+• Date Functions — to derive month, day and time insights
+
 Project 1: Pizza Sales Analysis 
-
-SQL Analytical Techniques
-• Joins • Group By • Aggregations • Window Functions
-
 
 KPIs:
 • Total Revenue = 871.86k
@@ -20,7 +30,7 @@ Insights:
 
 
 
-Project 2 : Hospital data Insights
+Project 2 : Hospital Patient data 
 
 •	Performed data extraction and analysis on hospital datasets using SQL queries, joins, subqueries, and aggregation functions.
 
