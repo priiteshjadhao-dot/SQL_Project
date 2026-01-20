@@ -1,7 +1,7 @@
 # SQL_Projects
 Project 1: Pizza Sales Analysis 
 
-Skills:
+SQL Analytical Techniques
 • Joins • Group By • Aggregations • Window Functions
 
 
@@ -18,6 +18,7 @@ Insights:
 
 
 Project 2 : Hospital data Insights
+
 •	Performed data extraction and analysis on hospital datasets using SQL queries, joins, subqueries, and aggregation functions.
 
 •	Created KPIs such as Total Patients 
