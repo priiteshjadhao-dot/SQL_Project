@@ -3,6 +3,8 @@ Project: Pizza Sales Analysis (SQL)
 
 Skills:
 • Joins • Group By • Aggregations • Window Functions
+
+
 KPIs:
 • Total Revenue = 871.86k
 • Quantity Sold = 49574
