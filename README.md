@@ -1,5 +1,5 @@
 # SQL_Projects
-Project: Pizza Sales Analysis (SQL)
+Project 1: Pizza Sales Analysis 
 
 Skills:
 • Joins • Group By • Aggregations • Window Functions
@@ -15,5 +15,18 @@ Insights:
 • Classic pizzas were top-selling category
 • Peak sales during evening time
 • Highest revenue on Fridays and Saturday
+
+
+Project 2 : Hospital data Insights
+•	Performed data extraction and analysis on hospital datasets using SQL queries, joins, subqueries, and aggregation functions.
+•	Created KPIs such as Total Patients 
+                       Average Length of Stay Per Department 
+                       Monthly Medical Expenses Report 
+
+Insights:
+• Longest Hospital Stay
+• Hospital with the Maximum Medical Expenses 
+• Identify the Department with the Lowest Number of Patients 
+• Total Patients Treated Per City
 
 
