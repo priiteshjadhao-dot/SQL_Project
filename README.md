@@ -17,6 +17,9 @@ Insights:
 • Highest revenue on Fridays and Saturday
 
 
+
+
+
 Project 2 : Hospital data Insights
 
 •	Performed data extraction and analysis on hospital datasets using SQL queries, joins, subqueries, and aggregation functions.
