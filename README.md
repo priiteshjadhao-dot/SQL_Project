@@ -1,6 +1,5 @@
 # SQL_Projects
 Project: Pizza Sales Analysis (SQL)
-Dataset: 48K pizza orders
 
 Skills:
 • Joins • Group By • Aggregations • Window Functions
